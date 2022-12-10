@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/9e9c8f6a8bd548a4b037760642a45d60/artifacts
+deleted_time: 1670714415158
+end_time: 1670714133812
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 9e9c8f6a8bd548a4b037760642a45d60
+run_name: colorful-bug-113
+run_uuid: 9e9c8f6a8bd548a4b037760642a45d60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714133793
+status: 3
+tags: []
+user_id: jraposoneto

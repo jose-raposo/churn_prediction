@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/b04bdccbc9604e2395289cf9ad3e821a/artifacts
+deleted_time: 1670713893118
+end_time: 1670712864170
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: b04bdccbc9604e2395289cf9ad3e821a
+run_name: able-crow-892
+run_uuid: b04bdccbc9604e2395289cf9ad3e821a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712858260
+status: 3
+tags: []
+user_id: jraposoneto

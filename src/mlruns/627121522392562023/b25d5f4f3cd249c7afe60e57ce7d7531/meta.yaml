@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/b25d5f4f3cd249c7afe60e57ce7d7531/artifacts
+deleted_time: 1670712965652
+end_time: 1670712289645
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: b25d5f4f3cd249c7afe60e57ce7d7531
+run_name: delicate-robin-184
+run_uuid: b25d5f4f3cd249c7afe60e57ce7d7531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712289122
+status: 4
+tags: []
+user_id: jraposoneto

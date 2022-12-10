@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/83a5dafee44f47cca59ed7c1fe1e3eaf/artifacts
+deleted_time: 1670714590646
+end_time: 1670714501826
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 83a5dafee44f47cca59ed7c1fe1e3eaf
+run_name: wistful-grub-801
+run_uuid: 83a5dafee44f47cca59ed7c1fe1e3eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714496614
+status: 3
+tags: []
+user_id: jraposoneto

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/23e4181d699d4713b82465d9f2c20ebb/artifacts
+deleted_time: 1670714415142
+end_time: 1670714334139
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 23e4181d699d4713b82465d9f2c20ebb
+run_name: big-rook-122
+run_uuid: 23e4181d699d4713b82465d9f2c20ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714328959
+status: 3
+tags: []
+user_id: jraposoneto

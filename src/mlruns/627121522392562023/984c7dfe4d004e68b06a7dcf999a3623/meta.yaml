@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/984c7dfe4d004e68b06a7dcf999a3623/artifacts
+deleted_time: 1670714517641
+end_time: 1670714434017
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 984c7dfe4d004e68b06a7dcf999a3623
+run_name: charming-shark-12
+run_uuid: 984c7dfe4d004e68b06a7dcf999a3623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714433981
+status: 3
+tags: []
+user_id: jraposoneto

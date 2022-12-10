@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/247821455c694af98af09fb80e3b626f/artifacts
+deleted_time: 1670714517633
+end_time: 1670714470721
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 247821455c694af98af09fb80e3b626f
+run_name: peaceful-zebra-700
+run_uuid: 247821455c694af98af09fb80e3b626f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714470666
+status: 3
+tags: []
+user_id: jraposoneto

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/5deb61692ca14de3b976c00af7f1935f/artifacts
+deleted_time: 1670714415167
+end_time: 1670714104453
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 5deb61692ca14de3b976c00af7f1935f
+run_name: orderly-dove-229
+run_uuid: 5deb61692ca14de3b976c00af7f1935f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714104437
+status: 3
+tags: []
+user_id: jraposoneto

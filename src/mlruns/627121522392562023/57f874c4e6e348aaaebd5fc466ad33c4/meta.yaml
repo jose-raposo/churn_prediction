@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/57f874c4e6e348aaaebd5fc466ad33c4/artifacts
+deleted_time: 1670712965651
+end_time: 1670712414874
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 57f874c4e6e348aaaebd5fc466ad33c4
+run_name: clumsy-sow-792
+run_uuid: 57f874c4e6e348aaaebd5fc466ad33c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712414471
+status: 4
+tags: []
+user_id: jraposoneto

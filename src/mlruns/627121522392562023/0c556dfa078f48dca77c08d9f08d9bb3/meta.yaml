@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/0c556dfa078f48dca77c08d9f08d9bb3/artifacts
+deleted_time: 1670714415181
+end_time: 1670713990899
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 0c556dfa078f48dca77c08d9f08d9bb3
+run_name: puzzled-kit-803
+run_uuid: 0c556dfa078f48dca77c08d9f08d9bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713990881
+status: 3
+tags: []
+user_id: jraposoneto

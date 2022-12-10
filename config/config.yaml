@@ -1,0 +1,36 @@
+# payload paths
+raw:
+  path: '../data/data.csv'
+
+preprocessed:
+  Xtrain: '/home/jraposoneto/churn_prediction/data/Xtrain.parquet'
+  ytrain: '/home/jraposoneto/churn_prediction/data/ytrain.parquet'
+  Xval: '/home/jraposoneto/churn_prediction/data/Xval.parquet'
+  yval: '/home/jraposoneto/churn_prediction/data/yval.parquet'
+  Xtest: '/home/jraposoneto/churn_prediction/data/Xtest.parquet'
+  ytest: '/home/jraposoneto/churn_prediction/data/ytest.parquet'
+
+# features used
+FEATS: ['gender','Partner','Dependents','TechSupport','Contract','PaperlessBilling','SeniorCitizen','tenure','TotalCharges']
+
+# target
+TARGET: Churn
+
+# to drop
+DROP_ID: customerID
+
+# pipeline1 loading
+pipeline:
+  path: '/home/jraposoneto/churn_prediction/artifacts/pipeline1.joblib'
+
+# kmeans clustering
+kmeans:
+  path: '/home/jraposoneto/churn_prediction/artifacts/kmeans.joblib'
+
+# numeric columns scaler
+scaler:
+  path: '/home/jraposoneto/churn_prediction/artifacts/scaler_numerics.joblib'
+
+# models path
+models:
+  baseline: '/home/jraposoneto/churn_prediction/models/baseline_lr.joblib'

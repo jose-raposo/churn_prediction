@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/8d726448db504780ad7bfc2169d93653/artifacts
+deleted_time: 1670714415170
+end_time: 1670714029905
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 8d726448db504780ad7bfc2169d93653
+run_name: chill-croc-182
+run_uuid: 8d726448db504780ad7bfc2169d93653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714029881
+status: 3
+tags: []
+user_id: jraposoneto

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023/90137d70daa64cf799b26153fc2c891f/artifacts
+deleted_time: 1670713893116
+end_time: 1670712884716
+entry_point_name: ''
+experiment_id: '627121522392562023'
+lifecycle_stage: deleted
+run_id: 90137d70daa64cf799b26153fc2c891f
+run_name: awesome-dove-181
+run_uuid: 90137d70daa64cf799b26153fc2c891f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712877148
+status: 3
+tags: []
+user_id: jraposoneto
