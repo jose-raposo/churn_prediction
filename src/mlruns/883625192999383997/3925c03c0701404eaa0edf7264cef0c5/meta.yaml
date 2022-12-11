@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/883625192999383997/3925c03c0701404eaa0edf7264cef0c5/artifacts
+end_time: 1670789445348
+entry_point_name: ''
+experiment_id: '883625192999383997'
+lifecycle_stage: active
+run_id: 3925c03c0701404eaa0edf7264cef0c5
+run_name: baseline_logistic_reg
+run_uuid: 3925c03c0701404eaa0edf7264cef0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670789440317
+status: 3
+tags: []
+user_id: jraposoneto

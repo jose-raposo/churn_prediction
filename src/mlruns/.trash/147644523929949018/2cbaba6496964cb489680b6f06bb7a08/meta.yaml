@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/147644523929949018/2cbaba6496964cb489680b6f06bb7a08/artifacts
+end_time: 1670782536477
+entry_point_name: ''
+experiment_id: '147644523929949018'
+lifecycle_stage: active
+run_id: 2cbaba6496964cb489680b6f06bb7a08
+run_name: GBM
+run_uuid: 2cbaba6496964cb489680b6f06bb7a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670781841513
+status: 1
+tags: []
+user_id: jraposoneto

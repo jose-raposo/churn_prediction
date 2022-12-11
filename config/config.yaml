@@ -34,3 +34,6 @@ scaler:
 # models path
 models:
   baseline: '/home/jraposoneto/churn_prediction/models/baseline_lr.joblib'
+
+# cache
+cache: '/home/jraposoneto/churn_prediction/artifacts/cache'

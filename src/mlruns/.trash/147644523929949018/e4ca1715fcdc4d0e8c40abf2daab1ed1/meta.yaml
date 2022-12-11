@@ -1,0 +1,16 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/147644523929949018/e4ca1715fcdc4d0e8c40abf2daab1ed1/artifacts
+deleted_time: 1670784533096
+end_time: 1670784115885
+entry_point_name: ''
+experiment_id: '147644523929949018'
+lifecycle_stage: deleted
+run_id: e4ca1715fcdc4d0e8c40abf2daab1ed1
+run_name: h2o_v_2
+run_uuid: e4ca1715fcdc4d0e8c40abf2daab1ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670783985511
+status: 3
+tags: []
+user_id: jraposoneto

@@ -1,6 +1,7 @@
 artifact_location: file:///home/jraposoneto/churn_prediction/src/mlruns/627121522392562023
 creation_time: 1670712288943
 experiment_id: '627121522392562023'
-last_update_time: 1670712288943
+last_update_time: 1670789223352
 lifecycle_stage: active
 name: logistic-regression-baseline
+tags: {}

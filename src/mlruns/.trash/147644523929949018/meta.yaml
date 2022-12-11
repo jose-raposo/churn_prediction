@@ -1,0 +1,7 @@
+artifact_location: file:///home/jraposoneto/churn_prediction/src/mlruns/147644523929949018
+creation_time: 1670778135537
+experiment_id: '147644523929949018'
+last_update_time: 1670789219510
+lifecycle_stage: active
+name: h2o-automl-model
+tags: {}

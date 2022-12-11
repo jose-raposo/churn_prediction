@@ -35,7 +35,7 @@ def train_baseline():
     client = MlflowClient()
 
     # Set up MlFlow experiment
-    experiment_name = 'logistic-regression-baseline'
+    experiment_name = 'churn-prediction'
 
     try:
         experiment_id = mlflow.create_experiment(experiment_name)
@@ -60,7 +60,7 @@ def train_baseline():
     print(50*'=')
     
     # Wrap autoML training with MLflow
-    with mlflow.start_run(run_name = f'baseline_v_{1}'):
+    with mlflow.start_run(run_name = f'baseline_logistic_reg'):
         model = LogisticRegression(
             **params
         )

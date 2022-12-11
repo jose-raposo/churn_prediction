@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jraposoneto/churn_prediction/src/mlruns/147644523929949018/7afe531129dd4744959a887a1ff040d2/artifacts
+end_time: 1670788395766
+entry_point_name: ''
+experiment_id: '147644523929949018'
+lifecycle_stage: active
+run_id: 7afe531129dd4744959a887a1ff040d2
+run_name: GLM
+run_uuid: 7afe531129dd4744959a887a1ff040d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670788082253
+status: 1
+tags: []
+user_id: jraposoneto

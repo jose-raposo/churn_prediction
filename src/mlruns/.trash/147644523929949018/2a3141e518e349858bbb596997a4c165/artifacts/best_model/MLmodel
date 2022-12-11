@@ -1,0 +1,17 @@
+artifact_path: best_model
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.38.0.3
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.10.8
+mlflow_version: 2.0.1
+model_uuid: 14082f83932e4f5f882dc5cd2fd436c2
+run_id: 2a3141e518e349858bbb596997a4c165
+utc_time_created: '2022-12-11 18:23:06.175303'

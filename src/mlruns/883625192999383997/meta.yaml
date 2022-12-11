@@ -1,0 +1,6 @@
+artifact_location: file:///home/jraposoneto/churn_prediction/src/mlruns/883625192999383997
+creation_time: 1670789440176
+experiment_id: '883625192999383997'
+last_update_time: 1670789440176
+lifecycle_stage: active
+name: churn-prediction
