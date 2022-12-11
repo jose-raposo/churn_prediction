@@ -37,3 +37,6 @@ models:
 
 # cache
 cache: '/home/jraposoneto/churn_prediction/artifacts/cache'
+
+# best model location
+model: '/home/jraposoneto/churn_prediction/src/mlruns/883625192999383997/56a16fe3e816433bb3fa3533fa1eabe7/artifacts/best_model/'
